@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋💙
 <div align=center>
 	
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyungah&count_bg=%23AEC1F1&title_bg=%23FFCECE&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits%21&edge_flat=false"/></a>
