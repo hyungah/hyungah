@@ -5,7 +5,7 @@
 	
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyungah)](https://github.com/hyungah/github-readme-stats)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunah&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungah&show_icons=true&theme=radical)
 	
   </div>
   
